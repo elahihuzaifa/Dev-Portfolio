@@ -82,7 +82,7 @@ export const projects: Project[] = [
     description:
       "Created the KarMuqabla mobile app with Next.js, Capacitor, and Tailwind, plus backend integration using Laravel. Website preview is work in progress.",
     stack: ["Next.js", "Capacitor", "Tailwind CSS", "Laravel", "Redux"],
-    image: "/karmuqabla-app.svg",
+    image: "karmuqabla-app.svg",
     github: "#",
     demo: "#",
   },

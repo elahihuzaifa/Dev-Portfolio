@@ -15,7 +15,7 @@ export default function Header() {
               Huzaifa Elahi
             </p>
             <p className="text-xs text-slate-400">
-              Web Developer • React • Next.js • DevOps Learner
+              Web Developer • DevOps Learner
             </p>
           </div>
         </div>
