@@ -1,0 +1,14 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" rx="40" fill="#0f172a" />
+  <rect x="40" y="40" width="720" height="420" rx="32" fill="#1e293b" />
+  <rect x="70" y="80" width="660" height="120" rx="24" fill="#0f172a" />
+  <rect x="70" y="220" width="290" height="180" rx="24" fill="#334155" />
+  <rect x="390" y="220" width="340" height="180" rx="24" fill="#334155" />
+  <text x="400" y="180" fill="#c7d2fe" font-family="Inter, sans-serif" font-size="32" font-weight="700" text-anchor="middle">KarMuqabla App</text>
+  <text x="400" y="240" fill="#94a3b8" font-family="Inter, sans-serif" font-size="20" text-anchor="middle">Work in progress on the website</text>
+  <text x="110" y="265" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="16">Next.js + Capacitor + Tailwind</text>
+  <text x="110" y="300" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="16">Laravel backend integration</text>
+  <circle cx="510" cy="280" r="24" fill="#38bdf8" />
+  <circle cx="580" cy="280" r="12" fill="#0f172a" />
+  <circle cx="650" cy="280" r="24" fill="#d946ef" />
+</svg>
