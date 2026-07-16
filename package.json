@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/elahihuzaifa/Dev-Portfolio",
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -7,11 +8,13 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.2",
     "framer-motion": "^12.42.2",
+    "gh-pages": "^6.3.0",
     "gsap": "^3.15.0",
     "lenis": "^1.3.25",
     "lucide-react": "^1.24.0",

@@ -64,7 +64,7 @@ export const projects: Project[] = [
     description:
       "Built the frontend and backend for a competition platform using modern web architecture, responsive UI, and reliable server logic.",
     stack: ["Wordpress", "Css", "bootstrap CSS", "javaScript", "php"],
-    image: "/karMuqabla.png",
+    image: "karMuqabla.png",
     github: "#",
     demo: "https://www.karmuqabla.com/",
   },
@@ -73,7 +73,7 @@ export const projects: Project[] = [
     description:
       "Built the Syalani Projects portfolio site to showcase every project in one place, with polished UI, responsive layouts, and seamless navigation across the portfolio.",
     stack: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-    image: "/syalani.png",
+    image: "syalani.png",
     github: "#",
     demo: "https://portfolio-assigment-js-elahi.netlify.app/",
   },
